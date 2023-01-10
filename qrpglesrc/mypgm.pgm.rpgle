@@ -2,7 +2,7 @@
 
 ctl-opt dftactgrp(*no);
 
-/INCLUDE 'qrpgleref/constants.rpgleinc'
+/INCLUDE 'qrpgleref/constants.rpgleinc' 
 
 dcl-s mytext char(25);
 
