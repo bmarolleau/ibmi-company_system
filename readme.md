@@ -8,7 +8,7 @@ Company System is a demo application that works with three build tools:
 
 ### Setup
 
-TODO.
+TODO. 
 
 ### Build Commands
 
