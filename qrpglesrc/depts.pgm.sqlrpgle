@@ -3,7 +3,7 @@
 
         Dcl-Pr Employees ExtPgm;
           DepartmentNumber Char(3);
-        End-Pr;
+        End-Pr; 
 
       //---------------------------------------------------------------*
 
