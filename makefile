@@ -6,7 +6,7 @@ SHELL=/QOpenSys/usr/bin/qsh
 all: depts.pgm.sqlrpgle employees.pgm.sqlrpgle mypgm.pgm.rpgle
 
 ## Targets
-
+ 
 depts.pgm.sqlrpgle: depts.dspf department.table
 employees.pgm.sqlrpgle: emps.dspf employee.table
 mypgm.pgm.rpgle: constants.rpgleinc
