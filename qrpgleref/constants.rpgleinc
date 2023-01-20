@@ -23,4 +23,4 @@
         Dcl-C F24        X'BC';
         Dcl-C ENTER      X'F1';
         Dcl-C HELP       X'F3';
-        Dcl-C PRINT      X'F6';
+        Dcl-C PRINT      X'F6'; 
